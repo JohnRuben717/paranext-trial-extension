@@ -1,0 +1,27 @@
+[
+    {"book": "Genesis", "chapter": 1, "verse": 1, "score": 5},
+    {"book": "Genesis", "chapter": 1, "verse": 2, "score": 3},
+    {"book": "Genesis", "chapter": 1, "verse": 3, "score": 8},
+    {"book": "Exodus", "chapter": 1, "verse": 1, "score": 6},
+    {"book": "Exodus", "chapter": 1, "verse": 2, "score": 2},
+    {"book": "Exodus", "chapter": 1, "verse": 3, "score": 7},
+    {"book": "Leviticus", "chapter": 1, "verse": 1, "score": 4},
+    {"book": "Leviticus", "chapter": 1, "verse": 2, "score": 9},
+    {"book": "Leviticus", "chapter": 1, "verse": 3, "score": 1},
+    {"book": "Numbers", "chapter": 1, "verse": 1, "score": 5},
+    {"book": "Numbers", "chapter": 1, "verse": 2, "score": 4},
+    {"book": "Numbers", "chapter": 1, "verse": 3, "score": 8},
+    {"book": "Deuteronomy", "chapter": 1, "verse": 1, "score": 3},
+    {"book": "Deuteronomy", "chapter": 1, "verse": 2, "score": 7},
+    {"book": "Deuteronomy", "chapter": 1, "verse": 3, "score": 6},
+    {"book": "Joshua", "chapter": 1, "verse": 1, "score": 9},
+    {"book": "Joshua", "chapter": 1, "verse": 2, "score": 2},
+    {"book": "Joshua", "chapter": 1, "verse": 3, "score": 5},
+    {"book": "Judges", "chapter": 1, "verse": 1, "score": 1},
+    {"book": "Judges", "chapter": 1, "verse": 2, "score": 4},
+    {"book": "Judges", "chapter": 1, "verse": 3, "score": 6},
+    {"book": "Ruth", "chapter": 1, "verse": 1, "score": 8},
+    {"book": "Ruth", "chapter": 1, "verse": 2, "score": 3},
+    {"book": "Ruth", "chapter": 1, "verse": 3, "score": 9}
+  ]
+  
